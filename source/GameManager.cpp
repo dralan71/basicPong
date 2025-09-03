@@ -4,6 +4,8 @@
 #include <termios.h>
 #include <unistd.h>
 #include <fcntl.h>
+#include <cstdlib>
+#include <ctime>
 using std::cout, std::endl;
 
 bool kbhit() {
