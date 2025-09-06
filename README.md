@@ -1,5 +1,7 @@
 # Pong Game in C++
 
+![Pong Gameplay](pong.gif)
+
 This is a terminal-based Pong game built in C++ for **macOS**.
 
 ## 📋 Description
