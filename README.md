@@ -1,6 +1,6 @@
 # Pong Game in C++
 
-![Pong Gameplay](pong.gif)
+<img src="pong.gif" alt="Pong Gameplay" width="300" />
 
 This is a terminal-based Pong game built in C++ for **macOS**.
 
